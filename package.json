@@ -1,17 +1,17 @@
 {
   "name": "basic-example",
   "description": null,
-  "version": "0.0.21",
+  "version": "0.0.1",
   "dependencies": {
-    "redux-form": "7.1.2",
-    "redux": "3.7.2",
+    "@isobar-us/redux-form-gen": "0.6.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
     "react-redux": "5.0.6",
-    "react-dom": "16.0.0",
-    "react": "16.0.0",
-    "@isobar-us/redux-form-gen": "0.5.3"
+    "redux": "3.7.2",
+    "redux-form": "7.2.0"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0"
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
