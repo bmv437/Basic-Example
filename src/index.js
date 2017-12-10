@@ -1,6 +1,5 @@
 import React from "react";
 import { render } from "react-dom";
-import Hello from "./Hello";
 import { createStore, combineReducers } from "redux";
 import { reducer as formReducer, reduxForm } from "redux-form";
 import { Provider } from "react-redux";
