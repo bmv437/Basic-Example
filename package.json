@@ -1,7 +1,7 @@
 {
   "name": "basic-example",
   "description": null,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@isobar-us/redux-form-gen": "0.6.0",
     "react": "16.2.0",
